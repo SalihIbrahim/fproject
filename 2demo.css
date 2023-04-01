@@ -1,0 +1,89 @@
+#box1, #box2, #box3 {
+    margin: 0 auto;
+  }
+  body {
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items: center;
+    background-image: url(TG_dron_panorama_7176355884760748914_original.jpg);
+  }
+  
+  h1 {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-shadow: 3px 3px 3px gray;
+    box-shadow: 5px 10px 5px gray ;
+    width: 50%;
+  }
+  
+  #box1, #box2, #box3 {
+    border: 5px solid;
+    width: 40vw;
+    background-color: white;
+    margin: 0 auto;
+  }
+  
+  #h3 {
+    font-family:'Times New Roman', Times, serif;
+  }
+  
+  #img1 {
+    width: 50%;
+  }
+  
+  #p1 {}
+  
+  #h4 {
+    font-family:'Times New Roman', Times, serif;
+  }
+  
+  #img2 {
+    width: 50%;
+  }
+  
+  #p2 {
+    width: 50%;
+  }
+  
+  #h5 {
+    font-family:'Times New Roman', Times, serif;
+  }
+  
+  #img3 {
+    width: 50%;
+  }
+  
+  #img4 {
+    width: 40%;
+  }
+  
+  #p3 {}
+  
+  #a1:hover {
+    color: black;
+  }
+  
+  #a2:hover {
+    color: black;
+  }
+  
+  #a3:hover {
+    color: black;
+  }
+  
+  #div0 {
+    width: 100vw;
+  }
+  
+  #div1 {
+    width: 100vw;
+  }
+  body {
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items: center;
+    background-image: url(TG_dron_panorama_7176355884760748914_original.jpg);
+    height: 100vh;
+  }
+  
