@@ -27,10 +27,12 @@ section:nth-of-type(1) {
 }
 
 section:nth-of-type(2) {
-    background-color: grey;
+    background-color: silver;
     color: black;
 }
-
+#p1{
+    padding: 50;
+}
 
 #h1 {
     font-family:Georgia, 'Times New Roman', Times, serif;
@@ -46,21 +48,22 @@ section:nth-of-type(2) {
 
 #p1 {
     font-size: 1.4em;
-    position:static;
     
-    left: 10%;
-    width: 180%;
-    height: 100%;
-   
+    padding: 50;
+    
+    width: 50vw;
+    height: 50vh;
+    
 }
 
 
 
 #img1{
-width: 70%;    
-height: 80%;
-position: relative;
-left: 20%;
+width: 30vw;    
+height: 50vh;
+padding: 50;
+
+
 }
 #div1{
     display: flex;
@@ -89,40 +92,3 @@ left: 20%;
 #ul1{
     font-size:22;
 }
-#li1{
-    display: flex;
-    flex-direction: column;
-    justify-content:right;
-    
-}
-#li01{
-    color: #00BFFF;
-}
-#li02{
-    color: #00FF7F;
-}
-#li03{
-    color: #00FFFF;
-}
-#li04{
-    color: #32CD32;
-}
-#li05{
-    color: #9ACD32;
-}
-#li06{
-    color: wheat;
-}
-#li07{
-    color: cyan;
-}
-#li08{
-    color: blue;
-}
-#li09{
-    color: black;
-}
-#li010{
-    color: #008000;
-}
- 
